@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "netherupdate:block/basalt_ore_block" }
+  }
+}

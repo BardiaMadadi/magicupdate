@@ -1,0 +1,7 @@
+{
+  "parent": "netherupdate:block/ore_template",
+  "textures": {
+    "1": "netherupdate:block/basalt_ore",
+    "particle": "netherupdate:block/basalt_ore"
+  }
+}

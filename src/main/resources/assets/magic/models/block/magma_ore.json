@@ -1,0 +1,7 @@
+{
+  "parent": "netherupdate:block/ore_template",
+  "textures": {
+    "1": "netherupdate:block/magma_ore",
+    "particle": "netherupdate:block/magma_ore"
+  }
+}
